@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 May 2023 06:38:24 at https://kanga-fine-wine.business.site/?m=true +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kanga-fine-wine.business.site/?m=true -O1 "C:\My Web Sites\kanga winestore" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:38:32	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 110585): www.gstatic.com/bfe/apps/website/css/LTR_222161133.css
+06:38:32	Error: 	"Not Found" (404) at link https://kanga-fine-wine.business.site/website/demo/ (from https://kanga-fine-wine.business.site/?m=true)
+06:38:33	Error: 	"Not Found" (404) at link https://kanga-fine-wine.business.site/about (from https://kanga-fine-wine.business.site/?m=true)
+06:38:33	Error: 	"Not Found" (404) at link https://kanga-fine-wine.business.site/b (from https://kanga-fine-wine.business.site/?m=true)
+06:38:33	Error: 	"Not Found" (404) at link https://kanga-fine-wine.business.site/https: (from https://kanga-fine-wine.business.site/?m=true)
+06:38:34	Error: 	"Not Found" (404) at link https://kanga-fine-wine.business.site/Edg/ (from https://kanga-fine-wine.business.site/?m=true)
+06:38:34	Error: 	"Not Found" (404) at link https://kanga-fine-wine.business.site/+/ (from https://kanga-fine-wine.business.site/?m=true)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 14 links scanned, 7 files written (770245 bytes overall) [405593 bytes received at 40559 bytes/sec], 561294 bytes transferred using HTTP compression in 10 files, ratio 29%
+(6 errors, 1 warnings, 0 messages)
